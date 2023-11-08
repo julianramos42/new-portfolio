@@ -12,12 +12,14 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-            <h3>
-              <span className="purple">Connect </span>with me
-            </h3>
+          <h3>
+            <span className="purple">Connect </span>with me
+          </h3>
         </Col>
         <Col md="4" className="footer-copywright">
-      
+          <h3>
+            Developed by <a href="https://www.tuwebhoy.com.ar/" target="_blank" className="purple" style={{"text-decoration": "none"}} rel="noreferrer">TuWebHoy</a>
+          </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -25,7 +27,7 @@ function Footer() {
               <a
                 href="https://github.com/julianramos42"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -35,7 +37,7 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/julian-ramos42/"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
