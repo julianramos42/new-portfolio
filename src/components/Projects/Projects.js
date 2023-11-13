@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import data from '../../data.json'
+import TuWebHoy from '../../Assets/Projects/tuwebhoy.png'
 import RedSocial from '../../Assets/Projects/red-social.webp'
 import Lance from '../../Assets/Projects/lance.webp'
 import Minga from '../../Assets/Projects/minga.webp'
@@ -13,7 +14,7 @@ import AmazingEvents from '../../Assets/Projects/amazingevents.webp'
 import Screamers from '../../Assets/Projects/screamers.webp'
 import Sunflower from '../../Assets/Projects/sunflower.webp'
 
-const images = [RedSocial, Lance, Minga, PetShop, ToDoApp, DolarCalculator, AmazingEvents, Screamers, Sunflower]
+const images = [TuWebHoy, RedSocial, Lance, Minga, PetShop, ToDoApp, DolarCalculator, AmazingEvents, Screamers, Sunflower]
 
 function Projects() {
   return (
@@ -29,7 +30,7 @@ function Projects() {
           <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
             {
               data.map((obj, i) => {
-                return <Col md={4} className={'project-card ' + obj.class} key={i}>
+                return <Col md={6} lg={4} className={'project-card ' + obj.class} key={i}>
                   <ProjectCard
                     imgPath={images[i]}
                     isBlog={false}

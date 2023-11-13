@@ -1,64 +1,71 @@
 [
     {
+        "class": "tuWebHoy",
+        "titulo": "TuWebHoy",
+        "descripcion": "Project that combines technologies such as HTML/CSS, Javascript, React, Git, and Github.",
+        "github": "",
+        "pagina": "https://www.tuwebhoy.com.ar/"
+    },
+    {
         "class": "redSocial",
-        "titulo": "Red Social",
-        "descripcion": "Proyecto que combina tecnologias como HTML/CSS, Javascript, API REST, React, Nodejs, MongoDb, Express, Socket.io, Git y Github.",
+        "titulo": "Social Network",
+        "descripcion": "Project that combines technologies such as HTML/CSS, Javascript, REST API, React, Nodejs, MongoDb, Express, Socket.io, Git, and Github.",
         "github": "https://github.com/julianramos42/red-social-front",
         "pagina": "https://jr-red-social.vercel.app/"
     },
     {
         "class": "lance",
         "titulo": "Lance",
-        "descripcion": "Proyecto en conjunto que combina tecnologias como HTML/CSS, Javascript, API REST, React, Nodejs, MongoDb, Express, Git y Github.",
+        "descripcion": "Collaborative project that combines technologies such as HTML/CSS, Javascript, REST API, React, Nodejs, MongoDb, Express, Git, and Github.",
         "github": "https://github.com/julianramos42/proyecto-final-front",
         "pagina": "https://lance-app.vercel.app/"
     },
     {
         "class": "minga",
         "titulo": "Minga",
-        "descripcion": "Proyecto en conjunto que combina tecnologias como HTML/CSS, Javascript, API REST, React, Nodejs, MongoDb, Express, Git y Github.",
+        "descripcion": "Collaborative project that combines technologies such as HTML/CSS, Javascript, REST API, React, Nodejs, MongoDb, Express, Git, and Github.",
         "github": "https://github.com/julianramos42/minga-front",
         "pagina": "https://jr-minga-front.vercel.app/"
     },
     {
         "class": "petshop",
         "titulo": "PetShop",
-        "descripcion": "Proyecto en conjunto que combina tecnologias como HTML/CSS, Javascript y API REST.",
+        "descripcion": "Collaborative project that combines technologies such as HTML/CSS, Javascript, and REST API.",
         "github": "https://github.com/julianramos42/petshop",
         "pagina": "https://julianramos42.github.io/petshop/"
     },
     {
         "class": "todo-app",
         "titulo": "To Do App",
-        "descripcion": "Proyecto que combina tecnologias como HTML/CSS, Javascript, React, LocalStorage, Git y Github.",
+        "descripcion": "Project that combines technologies such as HTML/CSS, Javascript, React, LocalStorage, Git, and Github.",
         "github": "https://github.com/julianramos42/todo-app",
         "pagina": "https://jr-todo-app.vercel.app/"
     },
     {
         "class": "dolar",
         "titulo": "Dolar Calculator",
-        "descripcion": "Proyecto que combina tecnologias como HTML/CSS, Javascript, API REST, React, Git y Github.",
+        "descripcion": "Project that combines technologies such as HTML/CSS, Javascript, REST API, React, Git, and Github.",
         "github": "https://github.com/julianramos42/dolar-calculator",
         "pagina": "https://jr-dolar-calculator.vercel.app/"
     },
     {
         "class": "amazing",
         "titulo": "Amazing Events",
-        "descripcion": "Proyecto que combina tecnologias como HTML/CSS, Javascript y API REST.",
+        "descripcion": "Project that combines technologies such as HTML/CSS, Javascript, and REST API.",
         "github": "https://github.com/julianramos42/amazingevents",
         "pagina": "https://julianramos42.github.io/amazingevents/"
     },
     {
         "class": "screamers",
         "titulo": "Screamers",
-        "descripcion": "Proyecto en conjunto el cual combina varias tecnologias como HTML/CSS, Javascript y VueJs.",
+        "descripcion": "Collaborative project that combines various technologies such as HTML/CSS, Javascript, and VueJs.",
         "github": "https://github.com/julianramos42/screamers",
         "pagina": "https://julianramos42.github.io/screamers/"
     },
     {
         "class": "sunflower",
         "titulo": "Sunflower",
-        "descripcion": "Proyecto que combina tecnologias como HTML y CSS.",
+        "descripcion": "Project that combines technologies such as HTML and CSS.",
         "github": "https://github.com/julianramos42/sunflower",
         "pagina": "https://julianramos42.github.io/sunflower/index.html"
     }
