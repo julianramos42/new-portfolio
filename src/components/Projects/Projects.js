@@ -3,18 +3,15 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import data from '../../data.json'
-import TuWebHoy from '../../Assets/Projects/tuwebhoy.png'
+import FranPortfolio from '../../Assets/Projects/franPortfolio.webp'
+import TuWebHoy from '../../Assets/Projects/tuwebhoy.webp'
 import RedSocial from '../../Assets/Projects/red-social.webp'
 import Lance from '../../Assets/Projects/lance.webp'
 import Minga from '../../Assets/Projects/minga.webp'
 import PetShop from '../../Assets/Projects/petshop.webp'
 import ToDoApp from '../../Assets/Projects/todo-app.webp'
-import DolarCalculator from '../../Assets/Projects/dolar-calculator.webp'
-import AmazingEvents from '../../Assets/Projects/amazingevents.webp'
-import Screamers from '../../Assets/Projects/screamers.webp'
-import Sunflower from '../../Assets/Projects/sunflower.webp'
 
-const images = [TuWebHoy, RedSocial, Lance, Minga, PetShop, ToDoApp, DolarCalculator, AmazingEvents, Screamers, Sunflower]
+const images = [FranPortfolio, TuWebHoy, RedSocial, Lance, Minga, PetShop, ToDoApp]
 
 function Projects() {
   return (
