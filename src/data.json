@@ -7,6 +7,13 @@
         "pagina": "https://www.tronconemotors.com/"
     },
     {
+        "class": "portfolioEditor",
+        "titulo": "Portfolio Editor",
+        "descripcion": "Project that combines technologies such as HTML/CSS, Javascript, Next, Tailwind, Nodejs, MongoDB, Git, and Github.",
+        "github": "",
+        "pagina": "https://www.julianramos.com.ar/"
+    },
+    {
         "class": "franPortfolio",
         "titulo": "Francisco Portfolio",
         "descripcion": "Project that combines technologies such as HTML/CSS, Javascript, Next, Tailwind, Git, and Github.",

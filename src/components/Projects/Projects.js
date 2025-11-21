@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import data from '../../data.json'
 import Troncone from '../../Assets/Projects/troncone.png'
+import Editor from '../../Assets/Projects/editor.png'
 import FranPortfolio from '../../Assets/Projects/franPortfolio.webp'
 import TuWebHoy from '../../Assets/Projects/tuwebhoy.webp'
 import RedSocial from '../../Assets/Projects/red-social.webp'
@@ -12,7 +13,7 @@ import Minga from '../../Assets/Projects/minga.webp'
 import PetShop from '../../Assets/Projects/petshop.webp'
 import ToDoApp from '../../Assets/Projects/todo-app.webp'
 
-const images = [Troncone, FranPortfolio, TuWebHoy, RedSocial, Lance, Minga, PetShop, ToDoApp]
+const images = [Troncone, Editor, FranPortfolio, TuWebHoy, RedSocial, Lance, Minga, PetShop, ToDoApp]
 
 function Projects() {
   return (
