@@ -11,14 +11,14 @@
         "titulo": "Francisco Portfolio",
         "descripcion": "Project that combines technologies such as HTML/CSS, Javascript, Next, Tailwind, Git, and Github.",
         "github": "https://github.com/julianramos42/francisco-ramos-portfolio",
-        "pagina": "https://www.franramos.com.ar/"
+        "pagina": "https://francisco-ramos-portfolio.vercel.app/"
     },
     {
         "class": "tuWebHoy",
         "titulo": "TuWebHoy",
         "descripcion": "Project that combines technologies such as HTML/CSS, Javascript, React, Git, and Github.",
         "github": "",
-        "pagina": "https://www.tuwebhoy.com.ar/"
+        "pagina": "https://tuwebhoy-git-main-julianramos42.vercel.app/"
     },
     {
         "class": "redSocial",
